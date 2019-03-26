@@ -11,7 +11,7 @@ Contact: [:email:](mailto:rsanchezarias@floridapoly.edu), [:earth_americas:](htt
 
 **Kahlil Wehmeyer**
 
-Graduating undergraduate student and Florida Polytechnic University in Lakeland, Florida. Obtaining a bachelor's degree in Data Analytics with a concentration in Big Data Analytics. Currently working as a Data Analytics intern at Yes.Fit. President and founder of the Data Analytics and Data Science club at Florida Poly.
+Graduating undergraduate student and Florida Polytechnic University in Lakeland, Florida. Obtaining a bachelor's degree in Data Analytics with a concentration in Big Data Analytics. Currently working as a Data Analytics intern at [Yes.Fit](yes.fit). President and founder of the Data Analytics and Data Science club at Florida Poly.
 
 Looking forward to graduating in the coming year and starting a professional career in data science.
 
