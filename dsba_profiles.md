@@ -37,7 +37,7 @@ Contact: [:email:](mailto:jmerriman@q-host.com "Jarrod's email"), [:earth_americ
 
 **Natalie Brum**
 
-Undergraduate student at Florida Polytechnic University. Obtaining a bachelor's degree in Data Analytics, Advanced Topics. Currently working as a intern at AgAmerica. President of SWE at Florida Polytechnic University.
+Natalie Brum, a senior at Florida Polytechnic University is studying Data Analytics. Natalie’s involvement outside of the classroom, allowed her to attain a Manufacturing Systems internship at 3M during her junior year of college. As an intern, she was able to analyze the data of machines and use Neural Networks to predict future behavioral changes within these machines. She looks forward to trying new things, as a Project Engineering Intern at 3M this upcoming summer.  Currently, Natalie is the President of the Society of Woman Engineers (SWE). She is also a Teaching Assistant for First Year Experience, and Concepts and Methods. 
 
 
 Contact: [:email:](mailto:nbrum3068@floridapoly.edu), [:earth_americas:](https://www.linkedin.com/in/natalie-brum-81ba04107/), [:octocat:](https://github.com/NatalieBrum)
