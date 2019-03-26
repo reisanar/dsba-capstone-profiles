@@ -13,4 +13,4 @@ Contact: [:email:](mailto:rsanchezarias@floridapoly.edu), [:earth_americas:](htt
 
 _Short bio here_
 
-Contact: 
+Contact: include your email, linkedin profile (or personal website), and your github profile
