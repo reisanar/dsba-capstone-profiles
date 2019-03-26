@@ -9,8 +9,11 @@ Contact: [:email:](mailto:rsanchezarias@floridapoly.edu), [:earth_americas:](htt
 
 ## Student Profiles
 
-**Student 1**
+**Kahlil Wehmeyer**
 
-_Short bio here_
+Graduating undergraduate student and Florida Polytechnic University in Lakeland, Florida. Obtaining a bachelor's degree in Data Analytics with a concentration in Big Data Analytics. Currently working as a Data Analytics intern at Yes.Fit. President and founder of the Data Analytics and Data Science club at Florida Poly.
 
-Contact: include your email, linkedin profile (or personal website), and your github profile
+Looking forward to graduating in the coming year and starting a professional career in data science.
+
+
+Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](kahlilwehmeyer.shinyapps.io/Twitter_Sentiment), [:octocat:](https://github.com/Khanzi)
