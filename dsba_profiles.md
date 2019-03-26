@@ -41,3 +41,12 @@ Undergraduate student at Florida Polytechnic University. Obtaining a bachelor's 
 
 
 Contact: [:email:](mailto:nbrum3068@floridapoly.edu), [:earth_americas:](https://www.linkedin.com/in/natalie-brum-81ba04107/), [:octocat:](https://github.com/NatalieBrum)
+
+**Marc Burstein**
+
+Hi my name is Marc Burstein I am a senior at Florida Polytechnic 
+University I am pursuing a degree in big data analytics. 
+
+Contact: [:email:](mailto:mburstein2498@floridapoly.edu), 
+[:octocat:](https://github.com/mburstein96)
+
