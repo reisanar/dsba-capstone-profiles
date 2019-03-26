@@ -9,6 +9,16 @@ Contact: [:email:](mailto:rsanchezarias@floridapoly.edu), [:earth_americas:](htt
 
 ## Student Profiles
 
+**Geoffrey Ruiz**
+Geoffrey is a Big Data Analysis major at Florida Polytechnic University, with a concentration in Business Intelligence. He has worked on multiple different projects like making an mobile application that helps identify and give up to date regulations on any fish that the user has caught, doing advanced statistics on a non profit company, helping the Polk County Tax Collector become more efficient in their wait times, and forecasting the private sector employment growth of Ocala Fl. Geoffrey also helped GTE become more helpful to its members being able to predict the next best product that the member is most likely to enroll into. All projects using his expertise in Data Analysis and his love for research.
+
+Geoffrey is a true Florida native growing up fishing and always staying close to the water. He even bought his first boat before he had a truck to pull it with. All of his best memories have been on the water fishing with his friends and family. Other than fishing Geoffrey loves to be in the gym placing 1st in multiple powerlifting meets he has been infor his age and weight class.
+
+
+Contact: [:email:](mailto:gruiz3739@floridapoly.edu), [Linkedin](https://www.linkedin.com/in/geoffrey-ruiz-443002116/), [:octocat:](https://github.com/geoffreyruiz)
+
+
+
 **Kahlil Wehmeyer**
 
 Graduating undergraduate student and Florida Polytechnic University in Lakeland, Florida. Obtaining a bachelor's degree in Data Analytics with a concentration in Big Data Analytics. Currently working as a Data Analytics intern at [Yes.Fit](yes.fit). President and founder of the Data Analytics and Data Science club at Florida Poly.
