@@ -50,3 +50,13 @@ University I am pursuing a degree in big data analytics.
 Contact: [:email:](mailto:mburstein2498@floridapoly.edu), 
 [:octocat:](https://github.com/mburstein96)
 
+**Luke Rhon**
+
+I've been at Florida Polytechnic University for 4 years and hold a Senior Status.I enrolled wanting to study Computer Science with a concentration in Cyber 
+Gaming butlater switched to Data Science with a concentration in Big Data Analytics. Due to the major change my expected graduation data is December 2019. 
+I havent had an internship yet but Im expecting to in Summer 2019. I currently work at the FPU Barnes & Noble Education Bookstore on campus as a bookseller. 
+I've worked there for 3 years and learned about business operations and extensive customer support. My industry interests are Healthcare, Retail, and Marketing. 
+These stem from my time working at the bookstore and my father working in healthcare area. When Im not studying at university I like spend time with family and 
+friends by watching movies, exploring the city, eating out, and attending local events.
+
+Contact: [:email:](mailto:lrhon3427@gmail.com), [:octocat:](https://github.com/lrhon33)
