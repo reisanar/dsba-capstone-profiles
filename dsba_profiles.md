@@ -60,3 +60,15 @@ These stem from my time working at the bookstore and my father working in health
 friends by watching movies, exploring the city, eating out, and attending local events.
 
 Contact: [:email:](mailto:lrhon3427@gmail.com), [:octocat:](https://github.com/lrhon33)
+
+**Kenneth Williams**
+
+Current student in Florida Polytechnic University. Worked at multiple different food service jobs and has worked in many different classes such as Statistics, Advanced Quantitative Methods, and Data
+Mining. I am proficient in the use of R, Stata, and Bash, and have also used C, C++, and Python coding languages. I am a person who will work on a project as long as it takes to be as good as possible,
+but also am not afraid to ask for help when needed. I do work well with others and can work in a group to help achieve a goal. I have a Microsoft Office 2010 certification and have been able to make a
+couple of websites under the name of Ralph Smith.
+
+Faculty: Reinaldo Sanchez-Arias
+
+Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](www.linkedin.com/in/kenneth-williams-7b4342158), [:octocat:](https://github.com/kwilliams2987)
+
