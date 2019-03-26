@@ -34,4 +34,4 @@ Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](kah
 
 Jarrod Merriman is an undergraduate student at Florida Polytechnic University completing a Bachelor of Science in Data Analytics who is expecting to complete his degree by Spring of 2019. He started as an independent contractor performing general I.T. support but is now currently working as an intern at Lakeland Regional Health in the Data Analytics Department. He is currently working on a project to build diagrams in Tableau using data he ha to manipulate using SQL.
 
-Contact: [:email:](mailto:jmerriman@q-host.com "Jarrod's email"), [:Linkedin:](https://www.linkedin.com/in/jarrodmerriman "Jarrod's Linkedin") [:octocat:](https://github.com/jarrodmerriman/ "Jarrod's Github")
+Contact: [:email:](mailto:jmerriman@q-host.com "Jarrod's email"), [Linkedin](https://www.linkedin.com/in/jarrodmerriman "Jarrod's Linkedin"), [:octocat:](https://github.com/jarrodmerriman/ "Jarrod's Github")
