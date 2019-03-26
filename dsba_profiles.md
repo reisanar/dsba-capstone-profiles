@@ -16,4 +16,4 @@ Graduating undergraduate student and Florida Polytechnic University in Lakeland,
 Looking forward to graduating in the coming year and starting a professional career in data science.
 
 
-Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](kahlilwehmeyer.shinyapps.io/Twitter_Sentiment), [:octocat:](https://github.com/Khanzi)
+Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](https://kahlilwehmeyer.shinyapps.io/Twitter_Sentiment/), [:octocat:](https://github.com/Khanzi)
