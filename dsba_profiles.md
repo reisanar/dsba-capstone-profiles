@@ -68,7 +68,5 @@ Mining. I am proficient in the use of R, Stata, and Bash, and have also used C, 
 but also am not afraid to ask for help when needed. I do work well with others and can work in a group to help achieve a goal. I have a Microsoft Office 2010 certification and have been able to make a
 couple of websites under the name of Ralph Smith.
 
-Faculty: Reinaldo Sanchez-Arias
-
 Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](www.linkedin.com/in/kenneth-williams-7b4342158), [:octocat:](https://github.com/kwilliams2987)
 
