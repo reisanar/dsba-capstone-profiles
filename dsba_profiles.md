@@ -74,3 +74,9 @@ Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](htt
 Oliver Bennett is a student at Florida Polytechnic University Studying Data Science with a concentration in Health Informatics. He worked with Lakeland Regional Health as an intern in the data analytics department to create a request form aligned with a new business model and extracted actionable information from data and created dashboards for visualization. Experience includes Tableau, SQL, and Python with working knowledge in numerous other data analyzation software’s and has interests in machine learning for utilization in the financial markets. He is graduating from the Data Science program in spring 2019.
 
 Contact: [:email:](mailto:obennett2767@floridapoly.edu), [:octocat:](https://github.com/Oliver-Bennett), [:earth_americas:](https://www.linkedin.com/in/oliver-bennett-450920157/)
+
+**Erich Grennan-Mengore** 
+
+I am currently a senior at Florida Polytechnic University studying for Bachelors of Science in Data Analytics. My only experience in the field would be as a Systems Analyst intern Nielsen in Tampa, where I learned Database Design & Development and GoLang Backend development. My immediate goal after graduation is to gain experience within the field focusing on Big Data and possibly Artificial Intelligence. My long-term goal in Data Analytics would be to use it to help tackle complex modern problems like Climate Change in order to help make for a better future. My strongest skills would include R, Programming Logic, and Unix/Linux, with my other skills listed in within my Linkedin. All in all, I am looking forward to the future and willing to tackle anything that comes my way.
+
+Contact: [:email:](mailto:egrennanmengore2488@floridapoly.edu), [:octocat:](https://github.com/kwilliams2987), [:earth_americas:](https://www.linkedin.com/in/erich-mengore-6a6357158/)
