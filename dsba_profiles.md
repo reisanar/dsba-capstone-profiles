@@ -26,7 +26,7 @@ Graduating undergraduate student and Florida Polytechnic University in Lakeland,
 Looking forward to graduating in the coming year and starting a professional career in data science.
 
 
-Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](kahlilwehmeyer.shinyapps.io/Twitter_Sentiment), [:octocat:](https://github.com/Khanzi)
+Contact: [:email:](mailto:kwehmeyer4425@floridapoly.edu), [:earth_americas:](https://kahlilwehmeyer.shinyapps.io/Twitter_Sentiment), [:octocat:](https://github.com/Khanzi)
 
 
 **Jarrod Merriman**
@@ -68,5 +68,5 @@ Mining. I am proficient in the use of R, Stata, and Bash, and have also used C, 
 but also am not afraid to ask for help when needed. I do work well with others and can work in a group to help achieve a goal. I have a Microsoft Office 2010 certification and have been able to make a
 couple of websites under the name of Ralph Smith.
 
-Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](www.linkedin.com/in/kenneth-williams-7b4342158), [:octocat:](https://github.com/kwilliams2987)
+Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](https://www.linkedin.com/in/kenneth-williams-7b4342158), [:octocat:](https://github.com/kwilliams2987)
 
