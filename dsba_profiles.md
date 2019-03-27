@@ -70,3 +70,7 @@ couple of websites under the name of Ralph Smith.
 
 Contact: [:email:](mailto:kwilliams2987@floridapoly.edu), [:earth_americas:](https://www.linkedin.com/in/kenneth-williams-7b4342158), [:octocat:](https://github.com/kwilliams2987)
 
+**Oliver Bennett**
+Oliver Bennett is a student at Florida Polytechnic University Studying Data Science with a concentration in Health Informatics. He worked with Lakeland Regional Health as an intern in the data analytics department to create a request form aligned with a new business model and extracted actionable information from data and created dashboards for visualization. Experience includes Tableau, SQL, and Python with working knowledge in numerous other data analyzation software’s and has interests in machine learning for utilization in the financial markets. He is graduating from the Data Science program in spring 2019.
+
+Contact: [:email:](mailto:obennett2767@floridapoly.edu), [:octocat:](https://github.com/Oliver-Bennett), [:earth_americas:](https://www.linkedin.com/in/oliver-bennett-450920157/)
