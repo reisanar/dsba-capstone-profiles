@@ -40,3 +40,23 @@ References, [Text Mining with R](https://www.tidytextmining.com),
 **Undergraduate Completion Rates:** Jarrod Merriman
 
 The purpose of this project is to build a model to predict the completion rate of undergradute students at universities who complete their degree in four years or less than four years. The data being used is the [CollegeScoreCard dataset](https://collegescorecard.ed.gov/data/) from the U.S. Department of Education. The predictive model will be built using the tool [Weka](https://www.cs.waikato.ac.nz/ml/weka/).
+
+**Project Title:** Relocation Station
+
+**Team**:
+- Natalie Brum
+- Erich Grennan-Mengore
+
+This project aimed to help a new Data Science graduate find the best city to relocate based on economic factors like cost of living and average salary as well as natural factors like the climate and the natural disasters in an area. 
+
+**Data Sources**:
+
+- Cost Of Living 2018 - [Numbeo.com] (https://www.numbeo.com/cost-of-living/) - Cost of Living Data for 2018 obtained by Professor Sanchez-Arias from numbeo.com, which was retrieved from github.
+- 2016 Regional Price Parity and Per Capita Personal Income - [BEA.gov] (https://www.bea.gov/) - Regional price parity, and Per Capita Personal Income in 2016 compiled by the Bureau of Economic Analysis(BEA)
+- Natural Disaster Map - [thereadystore.com] (https://www.thereadystore.com/) - Natural Disaster Locations, the data found here was manually entered into csv format.
+- R Packages such as Geonames and GSODR 
+
+**Final Product**:
+
+Will be a [Shiny Apps](https://shiny.rstudio.com/)
+
