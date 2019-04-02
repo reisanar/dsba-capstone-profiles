@@ -114,3 +114,24 @@ Articles:
 
 
 
+**Project title**: Making Money With Houses 
+
+**Team**: 
+Geoffrey Ruiz
+
+This project helps people decide where to purchase a property to be able 
+to then rent out that property for a profit, this could help with 
+retirement or just some passive income on the side as an investment. In 
+this project to gain insight on the housing market I used data from 
+Zillow. I then linked the data from Zillow to the Bureau of Labor 
+Statistics using the BLSApi package in R. I transformed the data from 
+both sources using STATA because that is the program that I am the most 
+comfortable with. I also used STATA to do any of the statistical 
+analysis to determine what cities were in the better positions for which 
+market situation, meaning if you are in the market for a 2 bedroom then 
+which city is the most ideal. 
+
+[Zillow](https://www.zillow.com/research/data/)
+[BLSApi](https://www.bls.gov/developers/api_r.htm)
+[STATA](https://www.stata.com/)
+
