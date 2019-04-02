@@ -24,9 +24,9 @@ References, [Text Mining with R](https://www.tidytextmining.com),
 [Shiny Apps](https://shiny.rstudio.com/),
 [R for Data Science](https://r4ds.had.co.nz), and 
 [Twitter Developer](https://developer.twitter.com/content/developer-twitter/en.html). Some of the key packages for this project are as follows:
-- [Tidyverse]("https://www.tidyverse.org/")
+- [Tidyverse](https://www.tidyverse.org/)
 - [Plotly](https://plot.ly/r/)
-- [Tidytext]("https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html")
-- [Topic Models]("https://cran.r-project.org/web/packages/tm/index.html")
-- [igraph]("https://igraph.org/r/")
-- [ggraph]("https://cran.r-project.org/web/packages/ggraph/index.html")
+- [Tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
+- [Topic Models](https://cran.r-project.org/web/packages/tm/index.html)
+- [igraph](https://igraph.org/r/)
+- [ggraph](https://cran.r-project.org/web/packages/ggraph/index.html)
