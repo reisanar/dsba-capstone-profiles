@@ -60,3 +60,22 @@ This project aimed to help a new Data Science graduate find the best city to rel
 
 Will be a [Shiny Apps](https://shiny.rstudio.com/)
 
+#Sleep Study
+
+###Team: Luke Rhon, Marc Burstein, and Kenneth Williams
+
+The main goal of this project is to build a predictive model that predicts student sleep behavior or performance based on input values. Using the findings from the 2012 study we can test those results
+by creating a model. Our findings so far have been trying to identify variables for our Linear Regression Models. Although we established the main variables for each regression model it doesnt explain
+most of the variance. The next step was trying out Decision Trees to see if we can increase the predictive power. We have the models made but we still have to investigate the accuracy and do some fine
+tuning.
+
+###Key Packages for the project
+
+- [Tidyverse](https://www.rdocumentation.org/packages/tidyverse/versions/1.2.1)
+- [scales](https://www.rdocumentation.org/packages/scales/versions/0.4.1)
+- [gridExtra](https://www.rdocumentation.org/packages/gridExtra/versions/2.3)
+- [dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)
+- [rpart](https://www.rdocumentation.org/packages/rpart/versions/4.1-13)
+- [rpart.plot](https://www.rdocumentation.org/packages/rpart.plot/versions/3.0.6)
+
+
