@@ -75,11 +75,11 @@ Oliver Bennett is a student at Florida Polytechnic University Studying Data Scie
 
 Contact: [:email:](mailto:obennett2767@floridapoly.edu), [:octocat:](https://github.com/Oliver-Bennett), [:earth_americas:](https://www.linkedin.com/in/oliver-bennett-450920157/)
 
-**Erich Grennan-Mengore** 
+**Erich Mengore** 
 
 I am currently a senior at Florida Polytechnic University studying for Bachelors of Science in Data Analytics. My only experience in the field would be as a Systems Analyst intern Nielsen in Tampa, where I learned Database Design & Development and GoLang Backend development. My immediate goal after graduation is to gain experience within the field focusing on Big Data and possibly Artificial Intelligence. My long-term goal in Data Analytics would be to use it to help tackle complex modern problems like Climate Change in order to help make for a better future. My strongest skills would include R, Programming Logic, and Unix/Linux, with my other skills listed in within my Linkedin. All in all, I am looking forward to the future and willing to tackle anything that comes my way.
 
-Contact: [:email:](mailto:egrennanmengore2488@floridapoly.edu), [:octocat:](https://github.com/bunsenmurder), [:earth_americas:](https://www.linkedin.com/in/erich-mengore-6a6357158/)
+Contact: [:email:](mailto:ErichMengore@gmail.com), [:octocat:](https://github.com/bunsenmurder), [:earth_americas:](https://www.linkedin.com/in/erich-mengore-6a6357158/)
 
 **Jordan Douglass**
 Jordan is a senior at Florida Polytechnic University majoring in Data Science with a concentration in Health Informatics. Experience wise, she has had an internship with Draken International doing web application development for their specific needs and has apart of Synapcare, a biomedical startup since May of 2018. My goal after graduation to is to join the United States Air Force as an officer and work in analytics.
