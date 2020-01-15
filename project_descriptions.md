@@ -27,7 +27,7 @@ The purpose of this project is to build a model to predict the completion rate o
 
 ***
 
-_Relocation Station_ by _**Natalie Brum and Erich Grennan-Mengore**_
+_Relocation Station_ by _**Natalie Brum and Erich Mengore**_
 
 This project aimed to help a new Data Science graduate find the best city to relocate based on economic factors like cost of living and average salary as well as natural factors like the climate and the natural disasters in an area. 
 
